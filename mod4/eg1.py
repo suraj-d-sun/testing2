@@ -1,0 +1,1 @@
+print("Thanos was right");
